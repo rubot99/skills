@@ -13,6 +13,16 @@ Skills are grouped into category directories. Each skill lives in its own folder
     <supporting files>
 ```
 
+## Available Skills
+
+### architecture
+
+| Skill | Description |
+|---|---|
+| [`create-adr`](architecture/create-adr) | Draft, number, and file Architecture Decision Records (ADRs), and review or critique existing ADR drafts, for a fintech/payments engineering context. |
+| [`c4-diagram`](architecture/c4-diagram) | Generate C4-model architecture diagrams (System Context, Container, or Component level) as Mermaid diagrams, following a fixed notation standard. |
+| [`sequence-diagram`](architecture/sequence-diagram) | Generate sequence diagrams (call/message flows between actors, services, and systems over time) as Mermaid diagrams, following a fixed notation standard. |
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
